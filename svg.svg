@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="792pt" height="612pt" viewBox="0 0 792 612">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(0,-.06,-.06,-0,792,612)" d="M960 1860H8638V11938H960V1860"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(0,-.06,-.06,-0,792,612)" d="M0 0H10199V13199H0V0"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<g id="layer_1" data-name="">
+<path transform="matrix(0,-.06,-.06,-0,792,612)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M3012 11897 1911 10795V3003L3012 1901V6899"/>
+<path transform="matrix(.06,0,0,-.06,378.03,290.97)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2337.5 0C-2337.5-1290.9657-1290.9657-2337.5 0-2337.5"/>
+<path transform="matrix(0,-.06,-.06,-0,792,612)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M7687 4562V9236H5350"/>
+<path transform="matrix(0,-.06,-.06,-0,792,612)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M3012 11897V6899"/>
+<path transform="matrix(.06,0,0,-.06,378.03,290.97)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M0-2337.5C1290.9657-2337.5 2337.5-1290.9657 2337.5 0"/>
+<path transform="matrix(0,-.06,-.06,-0,792,612)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M7280 4562H5350"/>
+<path transform="matrix(.06,0,0,-.06,518.25,233.07)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M0-964.5C532.67868-964.5 964.5-532.67868 964.5 0 964.5 532.67868 532.67868 964.5 0 964.5"/>
+<path transform="matrix(0,-.06,-.06,-0,792,612)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M7687 4562H7280"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(0,-.06,-.06,-0,792,612)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M959 11939V1859H8639V11939H959"/>
+</g>
+</g>
+</svg>
